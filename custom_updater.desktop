@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=autoupdater
+Comment=Test the terminal running a command inside it
+Exec=gnome-terminal -e "/home/matteo/Documenti/bash_scripts/autoupdate.sh"
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Application;
