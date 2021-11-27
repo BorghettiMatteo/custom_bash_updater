@@ -31,7 +31,5 @@ Icon=utilities-terminal
 Terminal=true
 Type=Application
 Categories=Application;" > $DotDesktopDir/custom_autoupdater.desktop
-#creo variabile per spostare merda
-Fdir="$PWD/custom_autoupdater.desktop"
-#scrittura file 
+
 
